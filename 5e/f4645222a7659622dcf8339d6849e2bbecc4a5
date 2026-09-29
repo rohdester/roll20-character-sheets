@@ -1,0 +1,29 @@
+D&D_3-5/translation.json
+  s_c21b3a99f8d640::t_ce4a63b8ddf668 31,39
+D&D_3-5/charsheet_3-5.html
+  s_3b25584c7d89c0::t_9b655b7a7453df 99-114,3638-3639,13753-13765,13767-13769,13771-13773,13775,13778-13784,13786-13787,13790-13791,13793,13798-13837,13839-13841,13843-13844,13846
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5ef4645222a7659622dcf8339d6849e2bbecc4a5",
+  "prompts": {},
+  "sessions": {
+    "s_3b25584c7d89c0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0ebd0-f5d2-78e3-9b65-1bf3d47b7671",
+        "model": "unknown"
+      },
+      "human_author": "rohdester <rohdester@gmail.com>"
+    },
+    "s_c21b3a99f8d640": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a3fd2ca5-524a-4e25-8471-c20dfc9b4fec",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "rohdester <rohdester@gmail.com>"
+    }
+  }
+}
