@@ -1,0 +1,19 @@
+D&D_3-5/charsheet_3-5.html
+  s_9bceae3e0ff37a::t_8dc281b5311f2f 6695,14195-14197,14199-14203,14207,14209,14217-14274,14279
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "26c88a3c6b85f82e73ed64f2c33e066fe5f7172d",
+  "prompts": {},
+  "sessions": {
+    "s_9bceae3e0ff37a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0fc38-ec8c-76f1-b9aa-b9e91203f80b",
+        "model": "unknown"
+      },
+      "human_author": "rohdester <rohdester@gmail.com>"
+    }
+  }
+}
