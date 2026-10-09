@@ -1,0 +1,21 @@
+D&D_3-5/charsheet_3-5.html
+  s_9bceae3e0ff37a::t_b6b4465bab42d2 13729-13730,13736,13742-13753,13759,13761-13767
+D&D_3-5/tests/migrations.test.js
+  s_9bceae3e0ff37a::t_78b98d626359f6 23,25-30,57,67-133
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "585982ee391a9d22777db789b5330f97e1f670ac",
+  "prompts": {},
+  "sessions": {
+    "s_9bceae3e0ff37a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0fc38-ec8c-76f1-b9aa-b9e91203f80b",
+        "model": "unknown"
+      },
+      "human_author": "rohdester <rohdester@gmail.com>"
+    }
+  }
+}
