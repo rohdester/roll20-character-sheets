@@ -1,0 +1,21 @@
+D&D_3-5/charsheet_3-5.html
+  s_9bceae3e0ff37a::t_241d2e64f74666 14518
+D&D_3-5/tests/action-attack.test.js
+  s_9bceae3e0ff37a::t_aef48f88237bdf 1-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6d79c6409d8efd36f18261a2207d9a42a06955a9",
+  "prompts": {},
+  "sessions": {
+    "s_9bceae3e0ff37a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0fc38-ec8c-76f1-b9aa-b9e91203f80b",
+        "model": "unknown"
+      },
+      "human_author": "rohdester <rohdester@gmail.com>"
+    }
+  }
+}
