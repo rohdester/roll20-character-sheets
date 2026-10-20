@@ -1,0 +1,21 @@
+D&D_3-5/charsheet_3-5.css
+  s_9bceae3e0ff37a::t_199480bc39d18c 3337
+D&D_3-5/tests/class-summary.test.js
+  s_9bceae3e0ff37a::t_027a8939ffeb1e 32-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "655f5f728ea86904acf560de2d0a3cfdf1a1282a",
+  "prompts": {},
+  "sessions": {
+    "s_9bceae3e0ff37a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0fc38-ec8c-76f1-b9aa-b9e91203f80b",
+        "model": "unknown"
+      },
+      "human_author": "rohdester <rohdester@gmail.com>"
+    }
+  }
+}
