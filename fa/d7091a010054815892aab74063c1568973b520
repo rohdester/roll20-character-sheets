@@ -1,0 +1,25 @@
+D&D_3-5/charsheet_3-5.css
+  s_9bceae3e0ff37a::t_fe623c3a7ae960 3975-4055
+D&D_3-5/charsheet_3-5.html
+  s_9bceae3e0ff37a::t_0ba4baaa66716c 248-249,259,8091-8104
+D&D_3-5/tests/main-tabs-ui.test.js
+  s_9bceae3e0ff37a::t_bfeee97aaa307a 8,20,40-45,51-73,90-99
+D&D_3-5/translation.json
+  s_9bceae3e0ff37a::t_b0812d7088afcc 60-63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fad7091a010054815892aab74063c1568973b520",
+  "prompts": {},
+  "sessions": {
+    "s_9bceae3e0ff37a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0fc38-ec8c-76f1-b9aa-b9e91203f80b",
+        "model": "unknown"
+      },
+      "human_author": "rohdester <rohdester@gmail.com>"
+    }
+  }
+}
