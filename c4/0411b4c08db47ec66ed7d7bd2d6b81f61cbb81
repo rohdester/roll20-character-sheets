@@ -1,0 +1,21 @@
+D&D_3-5/charsheet_3-5.css
+  s_9bceae3e0ff37a::t_9524a4c353a7bf 3398,3467-3469,3484
+D&D_3-5/tests/racial-traits-ui.test.js
+  s_9bceae3e0ff37a::t_f95a3aa92da1c6 61-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c40411b4c08db47ec66ed7d7bd2d6b81f61cbb81",
+  "prompts": {},
+  "sessions": {
+    "s_9bceae3e0ff37a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0fc38-ec8c-76f1-b9aa-b9e91203f80b",
+        "model": "unknown"
+      },
+      "human_author": "rohdester <rohdester@gmail.com>"
+    }
+  }
+}
