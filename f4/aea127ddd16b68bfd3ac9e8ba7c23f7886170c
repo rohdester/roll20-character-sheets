@@ -1,0 +1,21 @@
+D&D_BECM/BDnDSheet.html
+  s_91358f8ced2ac8::t_62b28b92f5efb2 957-958
+D&D_BECM/tests/test_movement.py
+  s_91358f8ced2ac8::t_5ccd93fd396812 32,36-37,82-89
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f4aea127ddd16b68bfd3ac9e8ba7c23f7886170c",
+  "prompts": {},
+  "sessions": {
+    "s_91358f8ced2ac8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a16350-34e3-7363-b09e-9094b5b1ab29",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "rohdester <rohdester@gmail.com>"
+    }
+  }
+}
