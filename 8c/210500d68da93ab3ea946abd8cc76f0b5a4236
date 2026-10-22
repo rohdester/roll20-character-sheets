@@ -1,0 +1,21 @@
+D&D_BECM/BDnDSheet.html
+  s_91358f8ced2ac8::t_56d78fd0bc193f 923-951,955-959,963-964,4433-4507
+D&D_BECM/tests/test_armour.cjs
+  s_91358f8ced2ac8::t_3a1fefcce6b782 1-95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8c210500d68da93ab3ea946abd8cc76f0b5a4236",
+  "prompts": {},
+  "sessions": {
+    "s_91358f8ced2ac8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a16350-34e3-7363-b09e-9094b5b1ab29",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "rohdester <rohdester@gmail.com>"
+    }
+  }
+}
