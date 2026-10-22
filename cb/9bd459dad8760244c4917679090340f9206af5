@@ -1,0 +1,19 @@
+D&D_BECM/BDnDSheet.html
+  s_91358f8ced2ac8::t_9e88d5638000fa 1202,1375,1548,1721,1894,2067,2240,2413,2586,2759
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cb9bd459dad8760244c4917679090340f9206af5",
+  "prompts": {},
+  "sessions": {
+    "s_91358f8ced2ac8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a16350-34e3-7363-b09e-9094b5b1ab29",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "rohdester <rohdester@gmail.com>"
+    }
+  }
+}
