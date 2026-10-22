@@ -1,0 +1,21 @@
+D&D_BECM/BDnDSheet.html
+  s_91358f8ced2ac8::t_f14d62bb0bba73 960-961
+D&D_BECM/tests/test_armour_calculation.py
+  s_91358f8ced2ac8::t_bf49a087e97830 1-63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "935056acc303092f8a6fc4ddbe74fa78cc507548",
+  "prompts": {},
+  "sessions": {
+    "s_91358f8ced2ac8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a16350-34e3-7363-b09e-9094b5b1ab29",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "rohdester <rohdester@gmail.com>"
+    }
+  }
+}
