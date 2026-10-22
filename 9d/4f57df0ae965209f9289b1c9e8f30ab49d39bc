@@ -1,0 +1,21 @@
+D&D_BECM/BDnDSheet.html
+  s_91358f8ced2ac8::t_969dabf33ab1f4 2961,2974,2987,3000,3013,3026,3039,3096,3118,3140,3162,3184,3206,3228,4310,4317,4321,4327,4334,4338,4344,4351,4355,4361,4368,4372,4378,4385,4389,4395,4402,4406,4412,4419,4423
+D&D_BECM/tests/test_inventory.cjs
+  s_91358f8ced2ac8::t_783a7b8eb76931 1-100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9d4f57df0ae965209f9289b1c9e8f30ab49d39bc",
+  "prompts": {},
+  "sessions": {
+    "s_91358f8ced2ac8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a16350-34e3-7363-b09e-9094b5b1ab29",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "rohdester <rohdester@gmail.com>"
+    }
+  }
+}
