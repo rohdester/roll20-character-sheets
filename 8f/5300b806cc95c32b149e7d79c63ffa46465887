@@ -1,9 +1,12 @@
 D&D_3-5/charsheet_3-5.html
   s_9bceae3e0ff37a::t_4a023ec229736e 139,150,161,172,183,194,205,216,227,238
+  s_9bceae3e0ff37a::t_8b0873160a002a 139,150,161,172,183,194,205,216,227,238
 D&D_3-5/tests/skill-points.test.js
   s_9bceae3e0ff37a::t_bbdedfe85ed4db 1-98
+  s_9bceae3e0ff37a::t_40d05b3fd96c7c 1-98
 D&D_3-5/translation.json
   s_9bceae3e0ff37a::t_56d82a94170eb6 32-33
+  s_9bceae3e0ff37a::t_110c0a2765cca7 32-33
 ---
 {
   "schema_version": "authorship/3.0.0",
