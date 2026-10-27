@@ -1,0 +1,25 @@
+D&D_3-5/charsheet_3-5.css
+  s_9bceae3e0ff37a::t_0bc4c5d47012b6 3564-3584,4641
+D&D_3-5/charsheet_3-5.html
+  s_9bceae3e0ff37a::t_bc58a3d0cb88b6 3694,3715,3736,3757,3781,3802,3823,3844,3865,3886,3907,3928,3949,3970,3991,4012,4033,4054,4075,4096,4117,4141,4162,4183,4204,4225,4246,4267,4288,4309,4330,4351,4372,4393,4414,4435,4456,4477,4498,4519,4540,4561,4582,4603,4624,4645,4666,4687,4708,4729,4750,4771,4792,4813,4834,4855,4876,4932,13976-14019
+D&D_3-5/tests/skill-rank-warnings.test.js
+  s_9bceae3e0ff37a::t_d3b16435bf4a23 1-75
+D&D_3-5/translation.json
+  s_9bceae3e0ff37a::t_9cf7a4b271705e 671-672
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "43690200f3ccc1a1849eec42bb1e66b497ff4e4a",
+  "prompts": {},
+  "sessions": {
+    "s_9bceae3e0ff37a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0fc38-ec8c-76f1-b9aa-b9e91203f80b",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "rohdester <rohdester@gmail.com>"
+    }
+  }
+}
