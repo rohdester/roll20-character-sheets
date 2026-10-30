@@ -1,0 +1,21 @@
+D&D_3-5/charsheet_3-5.html
+  s_9bceae3e0ff37a::t_94d860d5c06f8c 13516-13543,13546,13551-13556,13559-13560,13562,13564,13566,13568,13570,13595,13602-13603,13610,13617,13624,13631,13638,13645,13652,13659,13666,13673,13741,13743,15482,15490,15498,15506,15514,15522
+D&D_3-5/tests/pc-numeric-calculations.test.js
+  s_9bceae3e0ff37a::t_4a48dbb15bac98 1-225
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2b3b9004021aa2d38d5780f8b16a40edc6cf7eb9",
+  "prompts": {},
+  "sessions": {
+    "s_9bceae3e0ff37a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0fc38-ec8c-76f1-b9aa-b9e91203f80b",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "rohdester <rohdester@gmail.com>"
+    }
+  }
+}
