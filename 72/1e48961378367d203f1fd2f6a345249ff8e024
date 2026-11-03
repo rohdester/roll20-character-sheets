@@ -1,0 +1,21 @@
+D&D_3-5/charsheet_3-5.html
+  s_9bceae3e0ff37a::t_ec357f720c1fc2 14012-14018,14026,14028,14033,14041,14050-14051
+D&D_3-5/tests/skill-rank-warnings.test.js
+  s_9bceae3e0ff37a::t_7655042b1146cd 8-9,16-17,26-28,55,57,68-69,73-86
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "721e48961378367d203f1fd2f6a345249ff8e024",
+  "prompts": {},
+  "sessions": {
+    "s_9bceae3e0ff37a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0fc38-ec8c-76f1-b9aa-b9e91203f80b",
+        "model": "unknown"
+      },
+      "human_author": "rohdester <rohdester@gmail.com>"
+    }
+  }
+}
